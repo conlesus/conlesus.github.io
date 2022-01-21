@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>迷ノ途の资源站</title>
+  
+  <subtitle>科技就是生产力</subtitle>
+  <link href="https://resources.conisdaw.ml/atom.xml" rel="self"/>
+  
+  <link href="https://resources.conisdaw.ml/"/>
+  <updated>2022-01-17T07:41:31.584Z</updated>
+  <id>https://resources.conisdaw.ml/</id>
+  
+  <author>
+    <name>迷ノ途</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://resources.conisdaw.ml/hello-world/"/>
+    <id>https://resources.conisdaw.ml/hello-world/</id>
+    <published>2022-01-21T12:26:02.260Z</published>
+    <updated>2022-01-17T07:41:31.584Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
